@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/testbeetroot/static/css/main.aa0353e2.chunk.css",
+    "main.js": "/testbeetroot/static/js/main.f6410a28.chunk.js",
+    "main.js.map": "/testbeetroot/static/js/main.f6410a28.chunk.js.map",
+    "runtime-main.js": "/testbeetroot/static/js/runtime-main.ef12ba2b.js",
+    "runtime-main.js.map": "/testbeetroot/static/js/runtime-main.ef12ba2b.js.map",
+    "static/js/2.be4a3631.chunk.js": "/testbeetroot/static/js/2.be4a3631.chunk.js",
+    "static/js/2.be4a3631.chunk.js.map": "/testbeetroot/static/js/2.be4a3631.chunk.js.map",
+    "static/js/3.5a14edde.chunk.js": "/testbeetroot/static/js/3.5a14edde.chunk.js",
+    "static/js/3.5a14edde.chunk.js.map": "/testbeetroot/static/js/3.5a14edde.chunk.js.map",
+    "index.html": "/testbeetroot/index.html",
+    "static/css/main.aa0353e2.chunk.css.map": "/testbeetroot/static/css/main.aa0353e2.chunk.css.map",
+    "static/js/2.be4a3631.chunk.js.LICENSE.txt": "/testbeetroot/static/js/2.be4a3631.chunk.js.LICENSE.txt",
+    "static/media/arrow.7341b856.svg": "/testbeetroot/static/media/arrow.7341b856.svg",
+    "static/media/arrow_shot.9ad6df22.svg": "/testbeetroot/static/media/arrow_shot.9ad6df22.svg",
+    "static/media/help.b5b60e18.svg": "/testbeetroot/static/media/help.b5b60e18.svg",
+    "static/media/index.scss": "/testbeetroot/static/media/icons.b8c99b5f.ttf",
+    "static/media/editor.scss": "/testbeetroot/static/media/me-calendar-ico.bf0dc8a4.svg",
+    "static/media/me-emoji-happy.06deaf39.svg": "/testbeetroot/static/media/me-emoji-happy.06deaf39.svg",
+    "static/media/me-emoji-neutral.a5076e4f.svg": "/testbeetroot/static/media/me-emoji-neutral.a5076e4f.svg",
+    "static/media/me-emoji-sad.9e74c644.svg": "/testbeetroot/static/media/me-emoji-sad.9e74c644.svg",
+    "static/media/me-green-ball.58120cf5.svg": "/testbeetroot/static/media/me-green-ball.58120cf5.svg",
+    "static/media/me-minus.ef2bda19.svg": "/testbeetroot/static/media/me-minus.ef2bda19.svg",
+    "static/media/me-ok.48210cbc.svg": "/testbeetroot/static/media/me-ok.48210cbc.svg",
+    "static/media/me-plus.89ada8c2.svg": "/testbeetroot/static/media/me-plus.89ada8c2.svg",
+    "static/media/me-red-ball.3b9177e5.svg": "/testbeetroot/static/media/me-red-ball.3b9177e5.svg",
+    "static/media/me-shot-arrow-left.6e35df5d.svg": "/testbeetroot/static/media/me-shot-arrow-left.6e35df5d.svg",
+    "static/media/me-shot-arrow-right.56ce3577.svg": "/testbeetroot/static/media/me-shot-arrow-right.56ce3577.svg",
+    "static/media/me-steps.bd9538c6.svg": "/testbeetroot/static/media/me-steps.bd9538c6.svg",
+    "static/media/star-gold.01734bf5.svg": "/testbeetroot/static/media/star-gold.01734bf5.svg",
+    "static/media/star-green.d4309c7e.svg": "/testbeetroot/static/media/star-green.d4309c7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef12ba2b.js",
+    "static/js/2.be4a3631.chunk.js",
+    "static/css/main.aa0353e2.chunk.css",
+    "static/js/main.f6410a28.chunk.js"
+  ]
+}
